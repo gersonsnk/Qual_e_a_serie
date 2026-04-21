@@ -10,7 +10,7 @@ pip install -r requirements.txt
 
 2. Configure o IP do servidor
 
-> Use o IP da máquina que está rodando o backend (ex: `127.0.0.1` ou IP da rede)
+> Use o IP da máquina que está rodando o backend
 
 3. Inicie o servidor:
 
@@ -20,9 +20,9 @@ python -m uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 
 ---
 
-## 💻 Frontend (React / React Native)
+## 💻 Frontend
 
-Em outro terminal, execute:
+Em outro terminal:
 
 ```bash
 npm start
@@ -34,25 +34,35 @@ npm start
 
 ### 🌐 Web
 
-Acesse no navegador:
-
-```
+```text
 http://localhost:8081/
 ```
 
-### 📱 Mobile (Android e iOS)
+### 📱 Mobile (Expo Go)
 
-Abra no Expo:
-
-```
+```text
 exp://127.0.0.1:8081
 ```
 
 ---
 
-## ⚠️ Observações
+## 📲 Expo Go (Android e iOS)
 
-* Certifique-se de que backend e frontend estão rodando ao mesmo tempo
-* Caso esteja testando em outro dispositivo, use o IP da sua máquina ao invés de `127.0.0.1`
-* Verifique se a porta `8000` (backend) e `8081` (frontend) estão liberadas
+1. Instale o **Expo Go**:
 
+   * Android: Google Play
+   * iOS: App Store
+
+2. Com o frontend rodando (`npm start`), um **QR Code** será exibido
+
+3. Abra o Expo Go no celular e:
+
+   * Android: usar **Scan QR Code**
+   * iOS: escanear com a câmera
+
+4. O app abrirá automaticamente
+
+> ⚠️ Se não funcionar:
+
+* Use o IP da sua máquina (ex: `exp://192.168.0.10:8081`)
+* Celular e PC devem estar na mesma rede Wi-Fi
