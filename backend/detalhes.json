@@ -1,0 +1,905 @@
+{
+    "Friends": {
+        "nome_pt": "Friends",
+        "nome_en": "Friends",
+        "genero": "Comédia / Sitcom",
+        "ano": "1994 a 2004",
+        "temporadas": "10",
+        "episodios": "236",
+        "elenco": [
+            "Rachel (Jennifer Aniston)",
+            "Monica (Courteney Cox)",
+            "Ross (David Schwimmer)",
+            "Chandler (Matthew Perry)"
+        ],
+        "curiosidade": "Os atores de Friends foram os primeiros na história da TV a negociarem seus salários em grupo, alcançando 1 milhão de dólares por episódio cada!"
+    },
+    "Castelo Rá-Tim-Bum": {
+        "nome_pt": "Castelo Rá-Tim-Bum",
+        "nome_en": "Rá-Tim-Bum Castle",
+        "genero": "Infantil / Fantasia",
+        "ano": "1994 a 1997",
+        "temporadas": "1",
+        "episodios": "90",
+        "elenco": [
+            "Nino (Cássio Scapin)",
+            "Biba (Cinthya Rachel)",
+            "Pedro (Luciano Amaral)",
+            "Zequinha (Fredy Allan)"
+        ],
+        "curiosidade": "É considerado um dos maiores programas infantis da TV Mundial pela UNESCO e os figurinos foram inspirados no movimento Modernista."
+    },
+    "Game of Thrones": {
+        "nome_pt": "A Guerra dos Tronos",
+        "nome_en": "Game of Thrones",
+        "genero": "Fantasia Épica / Drama",
+        "ano": "2011 a 2019",
+        "temporadas": "8",
+        "episodios": "73",
+        "elenco": [
+            "Jon Snow (Kit Harington)",
+            "Daenerys (Emilia Clarke)",
+            "Tyrion (Peter Dinklage)",
+            "Cersei (Lena Headey)"
+        ],
+        "curiosidade": "A série usou tanto sangue falso em certas filmagens que a equipe precisava usar aquecedores para evitar que o xarope congelasse no set."
+    },
+    "Um Maluco no Pedaço": {
+        "nome_pt": "Um Maluco no Pedaço",
+        "nome_en": "The Fresh Prince of Bel-Air",
+        "genero": "Sitcom",
+        "ano": "1990 a 1996",
+        "temporadas": "6",
+        "episodios": "148",
+        "elenco": [
+            "Will Smith (Will Smith)",
+            "Uncle Phil (James Avery)",
+            "Carlton (Alfonso Ribeiro)"
+        ],
+        "curiosidade": "Will Smith era um Rapper famoso que aceitou o papel porque estava endividado com o imposto de renda!"
+    },
+    "Todo Mundo Odeia o Chris": {
+        "nome_pt": "Todo Mundo Odeia o Chris",
+        "nome_en": "Everybody Hates Chris",
+        "genero": "Comédia",
+        "ano": "2005 a 2009",
+        "temporadas": "4",
+        "episodios": "88",
+        "elenco": [
+            "Chris (Tyler James Williams)",
+            "Julius (Terry Crews)",
+            "Rochelle (Tichina Arnold)"
+        ],
+        "curiosidade": "A série é baseada na adolescência real do comediante Chris Rock, que também atua como o narrador de todos os episódios."
+    },
+    "Stranger Things": {
+        "nome_pt": "Stranger Things",
+        "nome_en": "Stranger Things",
+        "genero": "Ficção Científica / Terror / Anos 80",
+        "ano": "2016 ao Presente",
+        "temporadas": "4+",
+        "episodios": "34+",
+        "elenco": [
+            "Eleven (Millie Bobby Brown)",
+            "Hopper (David Harbour)",
+            "Mike (Finn Wolfhard)"
+        ],
+        "curiosidade": "A série foi rejeitada por cerca de 15 diferentes redes de TV antes da Netflix concordar em comprá-la. Hoje é o maior sucesso deles!"
+    },
+    "A Casa do Dragão": {
+        "nome_pt": "A Casa do Dragão",
+        "nome_en": "House of the Dragon",
+        "genero": "Fantasia / Drama Político",
+        "ano": "2022 ao Presente",
+        "temporadas": "2+",
+        "episodios": "20+",
+        "elenco": [
+            "Rhaenyra (Emma D'Arcy)",
+            "Daemon (Matt Smith)",
+            "Alicent (Olivia Cooke)"
+        ],
+        "curiosidade": "O Trono de Ferro desta série é construído usando centenas de espadas roubadas de outras produções, incluindo Warcraft e o próprio set de Game of Thrones."
+    },
+    "The Big Bang Theory": {
+        "nome_pt": "Big Bang: A Teoria",
+        "nome_en": "The Big Bang Theory",
+        "genero": "Comédia / Nerd Culture",
+        "ano": "2007 a 2019",
+        "temporadas": "12",
+        "episodios": "279",
+        "elenco": [
+            "Sheldon (Jim Parsons)",
+            "Leonard (Johnny Galecki)",
+            "Penny (Kaley Cuoco)"
+        ],
+        "curiosidade": "A atriz Mayim Bialik, que interpreta a genia Amy, tem de fato um Ph.D real em Neurociências e às vezes escrevia equações reais no cenário."
+    },
+    "La Casa de Papel": {
+        "nome_pt": "La Casa de Papel",
+        "nome_en": "Money Heist",
+        "genero": "Assalto / Suspense",
+        "ano": "2017 a 2021",
+        "temporadas": "5",
+        "episodios": "41",
+        "elenco": [
+            "O Professor (Álvaro Morte)",
+            "Tóquio (Úrsula Corberó)",
+            "Berlim (Pedro Alonso)"
+        ],
+        "curiosidade": "A série ia ser cancelada pela TV espanhola até a Netflix a comprar e a transformar em febre mundial."
+    },
+    "Os Flintstones": {
+        "nome_pt": "Os Flintstones",
+        "nome_en": "The Flintstones",
+        "genero": "Animação Clássica",
+        "ano": "1960 a 1966",
+        "temporadas": "6",
+        "episodios": "166",
+        "elenco": [
+            "Fred",
+            "Barney",
+            "Wilma",
+            "Betty"
+        ],
+        "curiosidade": "Foi a primeira animação a ser exibida à noite como programa adulto, influenciando Os Simpsons anos depois."
+    },
+    "The Walking Dead": {
+        "nome_pt": "The Walking Dead",
+        "nome_en": "The Walking Dead",
+        "genero": "Terror / Zumbis",
+        "ano": "2010 a 2022",
+        "temporadas": "11",
+        "episodios": "177",
+        "elenco": [
+            "Rick Grimes (Andrew Lincoln)",
+            "Daryl (Norman Reedus)"
+        ],
+        "curiosidade": "Na primeira temporada, os dublês passaram por uma 'Escola de Zumbis' para aprenderem a mancar harmonicamente."
+    },
+    "Round 6": {
+        "nome_pt": "Round 6",
+        "nome_en": "Squid Game",
+        "genero": "Suspense / Sobrevivência",
+        "ano": "2021 ao Presente",
+        "temporadas": "1+",
+        "episodios": "9+",
+        "elenco": [
+            "Seong Gi-hun (Lee Jung-jae)",
+            "Cho Sang-woo (Park Hae-soo)"
+        ],
+        "curiosidade": "O criador escreveu a série em 2008, mas foi recusada por ser 'demasiada violenta', demorando 10 anos pra ser feita!"
+    },
+    "Wandinha": {
+        "nome_pt": "Wandinha",
+        "nome_en": "Wednesday",
+        "genero": "Comédia Sombria",
+        "ano": "2022 ao Presente",
+        "temporadas": "1+",
+        "episodios": "8+",
+        "elenco": [
+            "Wandinha (Jenna Ortega)",
+            "Mãozinha",
+            "Enid"
+        ],
+        "curiosidade": "Jenna Ortega não pisca em nenhuma das cenas a pedido do diretor Tim Burton."
+    },
+    "The Office": {
+        "nome_pt": "Vida de Escritório",
+        "nome_en": "The Office (US)",
+        "genero": "Mockumentary",
+        "ano": "2005 a 2013",
+        "temporadas": "9",
+        "episodios": "201",
+        "elenco": [
+            "Michael Scott (Steve Carell)",
+            "Dwight (Rainn Wilson)",
+            "Jim (John Krasinski)"
+        ],
+        "curiosidade": "Muitas das reações são genuínas, a série incentivava o improviso para rechear as cenas de piadas puras."
+    },
+    "Breaking Bad": {
+        "nome_pt": "Breaking Bad",
+        "nome_en": "Breaking Bad",
+        "genero": "Crime / Drama Pessoal",
+        "ano": "2008 a 2013",
+        "temporadas": "5",
+        "episodios": "62",
+        "elenco": [
+            "Walter White (Bryan Cranston)",
+            "Jesse Pinkman (Aaron Paul)",
+            "Saul Goodman"
+        ],
+        "curiosidade": "A metanfetamina azul era na verdade balas esmagadas que os atores comiam entre as filmagens."
+    },
+    "Prison Break": {
+        "nome_pt": "Prison Break",
+        "nome_en": "Prison Break",
+        "genero": "Ação / Fuga",
+        "ano": "2005 a 2017",
+        "temporadas": "5",
+        "episodios": "90",
+        "elenco": [
+            "Michael Scofield (Wentworth Miller)",
+            "Lincoln Burrows"
+        ],
+        "curiosidade": "A tatuagem do protagonista demorava quatro horas na maquiagem e era um complexo quebra-cabeças real."
+    },
+    "Supernatural": {
+        "nome_pt": "Sobrenatural",
+        "nome_en": "Supernatural",
+        "genero": "Terror Fantasia",
+        "ano": "2005 a 2020",
+        "temporadas": "15",
+        "episodios": "327",
+        "elenco": [
+            "Dean (Jensen Ackles)",
+            "Sam (Jared Padalecki)",
+            "Castiel (Misha Collins)"
+        ],
+        "curiosidade": "Foi a mais longa série live-action focada em monstros da história dos EUA."
+    },
+    "Dexter": {
+        "nome_pt": "Dexter",
+        "nome_en": "Dexter",
+        "genero": "Drama Criminal / Thriller",
+        "ano": "2006 a 2013",
+        "temporadas": "8",
+        "episodios": "96",
+        "elenco": [
+            "Dexter (Michael C. Hall)",
+            "Debra (Jennifer Carpenter)"
+        ],
+        "curiosidade": "Dexter e sua irmã Debra eram casados na vida real durante as gravações."
+    },
+    "CSI Las Vegas": {
+        "nome_pt": "CSI: Investigação Criminal",
+        "nome_en": "CSI",
+        "genero": "Procedural Criminal",
+        "ano": "2000 a 2015",
+        "temporadas": "15",
+        "episodios": "337",
+        "elenco": [
+            "Gil Grissom (William Petersen)",
+            "Catherine Willows"
+        ],
+        "curiosidade": "A série causou o famoso 'Efeito CSI', lotando cursos universitários de ciência forense mundialmente."
+    },
+    "Two and a Half Men": {
+        "nome_pt": "Dois Homens e Meio",
+        "nome_en": "Two and a Half Men",
+        "genero": "Comédia / Sitcom",
+        "ano": "2003 a 2015",
+        "temporadas": "12",
+        "episodios": "262",
+        "elenco": [
+            "Charlie Harper (Charlie Sheen)",
+            "Alan (Jon Cryer)",
+            "Jake (Angus T. Jones)"
+        ],
+        "curiosidade": "Na vida real, o ator garoto 'Jake' passou a atacar a série na adolescência por considerar as piadas adultas ruins pra juventude."
+    },
+    "Smallville": {
+        "nome_pt": "Smallville: As Aventuras do Superboy",
+        "nome_en": "Smallville",
+        "genero": "Super Herói",
+        "ano": "2001 a 2011",
+        "temporadas": "10",
+        "episodios": "217",
+        "elenco": [
+            "Clark (Tom Welling)",
+            "Lex Luthor (Michael Rosenbaum)"
+        ],
+        "curiosidade": "A regra do criador era: O escudo do S no peito só iria aparecer na última cena do último episódio. E cumpriu."
+    },
+    "The Boys": {
+        "nome_pt": "The Boys",
+        "nome_en": "The Boys",
+        "genero": "Ação / Super Heróis Violentos",
+        "ano": "2019 ao Presente",
+        "temporadas": "4+",
+        "episodios": "32+",
+        "elenco": [
+            "Capitão Pátria (Antony Starr)",
+            "Bruto (Karl Urban)"
+        ],
+        "curiosidade": "A sátira extrema espelha os podres das grandes corporações modernas bilionárias agindo com heróis fabricados."
+    },
+    "The Last of Us": {
+        "nome_pt": "The Last of Us",
+        "nome_en": "The Last of Us",
+        "genero": "Ficção Apocalíptica",
+        "ano": "2023 ao Presente",
+        "temporadas": "1+",
+        "episodios": "9+",
+        "elenco": [
+            "Joel (Pedro Pascal)",
+            "Ellie (Bella Ramsey)"
+        ],
+        "curiosidade": "Uma das adaptações raras que agradou aos fãs mais chatos porque replicou cenas quadro a quadro do PlayStation 3."
+    },
+    "Modern Family": {
+        "nome_pt": "Família Moderna",
+        "nome_en": "Modern Family",
+        "genero": "Comédia Retratada",
+        "ano": "2009 a 2020",
+        "temporadas": "11",
+        "episodios": "250",
+        "elenco": [
+            "Jay (Ed O'Neill)",
+            "Gloria (Sofía Vergara)",
+            "Phil (Ty Burrell)"
+        ],
+        "curiosidade": "Nas premiações iniciais, os atores juraram que só aceitariam estatuetas focadas em 'Elenco em Grupo', recusando vitórias solos!"
+    },
+    "Brooklyn Nine-Nine": {
+        "nome_pt": "Brooklyn Nine-Nine",
+        "nome_en": "Brooklyn 99",
+        "genero": "Sitcom Policial",
+        "ano": "2013 a 2021",
+        "temporadas": "8",
+        "episodios": "153",
+        "elenco": [
+            "Jake Peralta (Andy Samberg)",
+            "Capitão Holt (Andre Braugher)"
+        ],
+        "curiosidade": "A atriz Stephanie Beatriz tem voz finíssima na vida real e sofria atuando como a detetive Rosa Diaz."
+    },
+    "Peaky Blinders": {
+        "nome_pt": "Peaky Blinders",
+        "nome_en": "Peaky Blinders",
+        "genero": "Máfia / Histórico Britânico",
+        "ano": "2013 a 2022",
+        "temporadas": "6",
+        "episodios": "36",
+        "elenco": [
+            "Tommy Shelby (Cillian Murphy)",
+            "Arthur Shelby (Paul Anderson)"
+        ],
+        "curiosidade": "O corte de cabelo estiloso da gangue se baseia na punição raspada nas prisões de alta periculosidade da própria época de 1920."
+    },
+    "Dark": {
+        "nome_pt": "Dark",
+        "nome_en": "Dark",
+        "genero": "Viagens Temporais",
+        "ano": "2017 a 2020",
+        "temporadas": "3",
+        "episodios": "26",
+        "elenco": [
+            "Jonas (Louis Hofmann)",
+            "Martha (Lisa Vicari)"
+        ],
+        "curiosidade": "Fica nos livros de roteiro como a trama que melhor conseguiu fechar TODAS as pontas soltas de paradoxo na história do Sci-fi moderno."
+    },
+    "Black Mirror": {
+        "nome_pt": "Espelho Negro",
+        "nome_en": "Black Mirror",
+        "genero": "Antologia / Suspense de Tecnologia",
+        "ano": "2011 ao Presente",
+        "temporadas": "6+",
+        "episodios": "27+",
+        "elenco": [
+            "Variável por episódio"
+        ],
+        "curiosidade": "O título 'Black Mirror' alude às telas desligadas de TV e celular que vemos no dia todo, mostrando o nosso próprio reflexo pálido e sombrio."
+    },
+    "O Senhor dos Anéis: Os Anéis de Poder": {
+        "nome_pt": "Senhor dos Anéis: Os Anéis de Poder",
+        "nome_en": "The Lord of the Rings: The Rings of Power",
+        "genero": "Fantasia Épica Imensa",
+        "ano": "2022 ao Presente",
+        "temporadas": "1+",
+        "episodios": "16+",
+        "elenco": [
+            "Galadriel (Morfydd Clark)",
+            "Sauron (Charlie Vickers)"
+        ],
+        "curiosidade": "Bancada pela empresa de entregas gigantesca, a Amazon forçou que a série fosse a obra mais custosa de TELA da humanidade beirando 1 BIlhão."
+    },
+    "Loki": {
+        "nome_pt": "Loki",
+        "nome_en": "Loki MCU",
+        "genero": "Viagem Temporal Marvel",
+        "ano": "2021 a 2023",
+        "temporadas": "2",
+        "episodios": "12",
+        "elenco": [
+            "Loki (Tom Hiddleston)",
+            "Mobius (Owen Wilson)"
+        ],
+        "curiosidade": "Foi a maior prova de audiência da Marvel que uma série inteira focada num vilão trágico pode desbancar audiência com os figurinos de prédios reais comunistas."
+    },
+    "24 Horas": {
+        "nome_pt": "24 Horas",
+        "nome_en": "24",
+        "genero": "Ação Investigativa",
+        "ano": "2001 a 2014",
+        "temporadas": "9",
+        "episodios": "204",
+        "elenco": [
+            "Jack Bauer (Kiefer Sutherland)",
+            "Chloe O'Brian"
+        ],
+        "curiosidade": "Fez hit global pois simulava 'tempo real'. Um episódio de 42 minutos mais intervalos simulava uma única hora corrida dos eventos."
+    },
+    "A Super Máquina": {
+        "nome_pt": "A Super Máquina",
+        "nome_en": "Knight Rider",
+        "genero": "Tech Action Anos 80",
+        "ano": "1982 a 1986",
+        "temporadas": "4",
+        "episodios": "90",
+        "elenco": [
+            "Michael Knight (David Hasselhoff)",
+            "KITT"
+        ],
+        "curiosidade": "Para KITT andar sozinho o figurinista construiu roupas de banco para os dublês ficarem enterrados sob o freio de mão as cegas e sem ar!"
+    },
+    "A Nova Super Máquina": {
+        "nome_pt": "A Nova Super Máquina",
+        "nome_en": "Knight Rider",
+        "genero": "Action Rápida",
+        "ano": "2008 a 2009",
+        "temporadas": "1",
+        "episodios": "17",
+        "elenco": [
+            "Mike (Justin Bruening)"
+        ],
+        "curiosidade": "O Pontiac foi substituído por um robusto Mustang mas com as crises financeiras da NBC acabou logo sem o devido reconhecimento de fãs novos."
+    },
+    "Além da Imaginação": {
+        "nome_pt": "Além da Imaginação",
+        "nome_en": "The Twilight Zone",
+        "genero": "Suspense e Bizarrice",
+        "ano": "1959 a 1964",
+        "temporadas": "5",
+        "episodios": "156",
+        "elenco": [
+            "Rod Serling"
+        ],
+        "curiosidade": "A mãe de todas as premissas independentes na trama, Rod era o gênio que conectava alienígenas nos anos 50 quando nada parecido passará antes nos EUA."
+    },
+    "American Horror Story": {
+        "nome_pt": "História de Terror Americana",
+        "nome_en": "American Horror Story",
+        "genero": "Terror Sobrenatural",
+        "ano": "2011 ao Presente",
+        "temporadas": "12+",
+        "episodios": "128+",
+        "elenco": [
+            "Evan Peters",
+            "Sarah Paulson",
+            "Jessica Lange"
+        ],
+        "curiosidade": "O cast vive mudando, permitindo que Jessica Lange faça uma freira numa temp e logo após uma bruxa louca em New Orleans noutro cast."
+    },
+    "Arquivo X": {
+        "nome_pt": "Arquivo X",
+        "nome_en": "The X-Files",
+        "genero": "Alienígenas Investigativos",
+        "ano": "1993 a 2018",
+        "temporadas": "11",
+        "episodios": "218",
+        "elenco": [
+            "Fox Mulder (David Duchovny)",
+            "Dana Scully (Gillian Anderson)"
+        ],
+        "curiosidade": "Seu mantra global 'Trust Nobody' abriu o cenário gigante da desconfiança em teorias de conspirações com ETs em massa, o criador virou o avozinho disto."
+    },
+    "Barrados no Baile": {
+        "nome_pt": "Barrados no Baile",
+        "nome_en": "Beverly Hills 90210",
+        "genero": "Drama Jovem Novelesco",
+        "ano": "1990 a 2000",
+        "temporadas": "10",
+        "episodios": "293",
+        "elenco": [
+            "Brandon (Jason Priestley)",
+            "Dylan (Luke Perry)"
+        ],
+        "curiosidade": "Os astros viviam num pânico diário pela popularidade absurda até o produtor despistar multidões por helicópteros pros cantores passarem das escolas cenografia!"
+    },
+    "Bones": {
+        "nome_pt": "Bones",
+        "nome_en": "Bones",
+        "genero": "Drama Médico E Investigatívo",
+        "ano": "2005 a 2017",
+        "temporadas": "12",
+        "episodios": "246",
+        "elenco": [
+            "Temperance Brennan (Emily Deschanel)",
+            "Booth (David)"
+        ],
+        "curiosidade": "Exagerou nas fórmulas mágicas em computação pra prever esqueletos! Causando revolta educada em forenses porque nada daquilo se achava num PC da pericia reais."
+    },
+    "Buffy, a Caça-Vampiros": {
+        "nome_pt": "Buffy: A Caça-Vampiros",
+        "nome_en": "Buffy the Vampire Slayer",
+        "genero": "Heróina Jovem Comédia",
+        "ano": "1997 a 2003",
+        "temporadas": "7",
+        "episodios": "144",
+        "elenco": [
+            "Buffy Summers (Sarah Michelle Gellar)",
+            "Willow (Alyson)"
+        ],
+        "curiosidade": "Tão perfeita roteiramente para empoderar feminismo e literatura adolescente que formou grupos gringos em faculdades reais da 'Buffyologia'."
+    },
+    "C.S.I. Miami": {
+        "nome_pt": "C.S.I.: Miami",
+        "nome_en": "CSI: Miami",
+        "genero": "Investigação Litorânea Vistosa",
+        "ano": "2002 a 2012",
+        "temporadas": "10",
+        "episodios": "232",
+        "elenco": [
+            "Horatio Caine (David Caruso)"
+        ],
+        "curiosidade": "As cenas escuras cômicas de Caruso pegando seus óculos sol com bordão nos primeiros minutos virou meme lendário da net para conclusões abruptas."
+    },
+    "C.S.I. New York": {
+        "nome_pt": "CSI: Nova York",
+        "nome_en": "CSI: NY",
+        "genero": "Police Procedural Frio",
+        "ano": "2004 a 2013",
+        "temporadas": "9",
+        "episodios": "197",
+        "elenco": [
+            "Mac Taylor (Gary Sinise)"
+        ],
+        "curiosidade": "Quem ver o Sargento Dan nas pernas perdidas de Forrest Gump nunca diria que Sinise liderava com tanta maestria sombria e forte Nova Iorque na TV com elegância."
+    },
+    "Chucky": {
+        "nome_pt": "Chucky",
+        "nome_en": "Chucky",
+        "genero": "Slasher Assombrado Pop",
+        "ano": "2021 ao Presente",
+        "temporadas": "3+",
+        "episodios": "24+",
+        "elenco": [
+            "Chucky Voz (Brad Dourif)",
+            "Jake"
+        ],
+        "curiosidade": "Reviver o roteirista mestre de 80 e chamar o dublador original com os fantoches dos mesmos estúdios provou a genialidade e chocou fãs órfãos por sequências de raiz."
+    },
+    "Chuck": {
+        "nome_pt": "Chuck",
+        "nome_en": "Chuck",
+        "genero": "Comédia Espionagem Geek",
+        "ano": "2007 a 2012",
+        "temporadas": "5",
+        "episodios": "91",
+        "elenco": [
+            "Chuck Bartowski (Zachary Levi)",
+            "Sarah Walker (Yvonne Strahovski)"
+        ],
+        "curiosidade": "Sabe do que se sustentou? Subways (sanduíches reais) pagos na loja quando as hordas foram devorar em homenagem salvou o final cancelado na época comprando o espaço."
+    },
+    "Criminal Minds": {
+        "nome_pt": "Mentes Criminosas",
+        "nome_en": "Criminal Minds",
+        "genero": "Crimes Hediondos Analisados",
+        "ano": "2005 ao Presente",
+        "temporadas": "16+",
+        "episodios": "344+",
+        "elenco": [
+            "Dr Spencer (Matthew Gray Gubler)",
+            "Penelope Garcia"
+        ],
+        "curiosidade": "Enquanto os CSIs vão em microscópios aqui o BAU desenha a silhueta psicológica medonha dos sequestradores criando roteiros terrivelmente viscerais das cabeçudas."
+    },
+    "Doctor Who": {
+        "nome_pt": "Doctor Who",
+        "nome_en": "Doctor Who",
+        "genero": "Lenda Cósmica Sci-fi",
+        "ano": "1963 ao Presente",
+        "temporadas": "39+",
+        "episodios": "870+",
+        "elenco": [
+            "Vários Atores Principais"
+        ],
+        "curiosidade": "A sacada do Doutor poder se transmutar para não morrer quando doente deu cheque-mate pros estúdios pois poderiam tocar elencos sem cancelar a trama pra 60 anos."
+    },
+    "Dr. House": {
+        "nome_pt": "Dr. House",
+        "nome_en": "House, M.D.",
+        "genero": "Médico Genialidade Deprimente",
+        "ano": "2004 a 2012",
+        "temporadas": "8",
+        "episodios": "177",
+        "elenco": [
+            "Dr. House (Hugh Laurie)"
+        ],
+        "curiosidade": "É o equivalente claro de como Sherlock e o amigo Watson agiriam como Médicos lidando com dilemas e vícios da humanidade se escorando em lógicas precisas e maldosas de laudos bizarros."
+    },
+    "Fallout": {
+        "nome_pt": "Fallout",
+        "nome_en": "Fallout",
+        "genero": "Anos 50 Nucleares Distópicos Futuros",
+        "ano": "2024 ao Presente",
+        "temporadas": "1+",
+        "episodios": "8+",
+        "elenco": [
+            "Lucy (Ella Purnell)",
+            "Ghoul (Walton Goggins)"
+        ],
+        "curiosidade": "Transportar os monitores CRT retro futurísticos imensos, chapinhas de bebidas do videogame em 1bi orçamento garantiu um ar real de perigos sem frescura aos nerds raiz explodindo visualizações."
+    },
+    "From": {
+        "nome_pt": "Origem",
+        "nome_en": "From",
+        "genero": "Pesadelo Mistérico Claustrofóbico Isolado",
+        "ano": "2022 ao Presente",
+        "temporadas": "2+",
+        "episodios": "20+",
+        "elenco": [
+            "Boyd (Harold Perrineau)"
+        ],
+        "curiosidade": "Com a fama do mesmíssimo engenheiro que projetou as bases caóticas dos perdidos da série de avião LOST, monstros idosos na neblina deram sustos medonhos prendendo espectadores no forum conspiratórios da Net a fio!"
+    },
+    "Heroes": {
+        "nome_pt": "Heroes",
+        "nome_en": "Heroes",
+        "genero": "Heroísmo Jovem Ocultado Comum",
+        "ano": "2006 a 2010",
+        "temporadas": "4",
+        "episodios": "77",
+        "elenco": [
+            "Claire (Hayden Panettiere)",
+            "Sylar"
+        ],
+        "curiosidade": "Ninguém ousava dormir não decorando 'Save the cheerleader, Save the World', enraizando o sub-gênero dos Heróis na mente com gente comum da televisão do nada adquirindo voos."
+    },
+    "How I Met Your Mother": {
+        "nome_pt": "Como Conheci Sua Mãe (HIMYM)",
+        "nome_en": "How I Met Your Mother",
+        "genero": "Amizade Urbana Novayorquina e Comédia de Mágicas",
+        "ano": "2005 a 2014",
+        "temporadas": "9",
+        "episodios": "208",
+        "elenco": [
+            "Ted (Josh Radnor)",
+            "Barney (Neil Patrick)"
+        ],
+        "curiosidade": "Inverteram os trâmites do riso gravando tudo do futuro pro passado focados do fato central de uma cadeira, resultando nos episódios não lineares loucos cheios de bebidas num bar com Barney Lendário!"
+    },
+    "IT: Bem-Vindos a Derry": {
+        "nome_pt": "IT: Bem-Vindos a Derry",
+        "nome_en": "Welcome To Derry",
+        "genero": "Palhaço Macabro Pesadelo Extremo Sombrio",
+        "ano": "2025 ao Presente",
+        "temporadas": "1+",
+        "episodios": "TBD",
+        "elenco": [
+            "Pennywise (Bill Skarsgård)"
+        ],
+        "curiosidade": "Puxada incrivel para o streaming expandir a aclamada história arrepiante pra telas com Skarsgard regressando com os esgotos mais escrotos em seriados pro susto ser estendido puros por meses na sala de assustar dos americanos!"
+    },
+    "Kenan & Kel": {
+        "nome_pt": "Kenan & Kel",
+        "nome_en": "Kenan & Kel",
+        "genero": "Jovens Zueiros Imaculados Da Nick",
+        "ano": "1996 a 2000",
+        "temporadas": "4",
+        "episodios": "65",
+        "elenco": [
+            "Kenan (Kenan Thompson)",
+            "Kel (Kel Mitchell)"
+        ],
+        "curiosidade": "Quem ousou não imitar Kel perguntando loucamente e explodindo a voz sobre amado refrigerante de laranja não habitou nas locadoras e tardes infantis de glória mundial."
+    },
+    "Lost": {
+        "nome_pt": "Lost: Os Perdidos",
+        "nome_en": "Lost",
+        "genero": "Mistério Ilimitado E Sci-Fi Drama Isolado na Floresta",
+        "ano": "2004 a 2010",
+        "temporadas": "6",
+        "episodios": "121",
+        "elenco": [
+            "Jack Shephard (Matthew Fox)",
+            "Sawyer",
+            "Locke"
+        ],
+        "curiosidade": "Ninguém sabia fechar furos pois a bola correu tanto em fóruns e gerou febres da internet nos botões nas masmorras subterraneas q 4, 8, 15, 16 23 e 42 lotaram o mercado de bilhetes até de loterias mundo a fora no real!"
+    },
+    "Lei & Ordem": {
+        "nome_pt": "Lei & Ordem",
+        "nome_en": "Law & Order",
+        "genero": "Justiça Judiciária Fria",
+        "ano": "1990 ao Presente",
+        "temporadas": "23+",
+        "episodios": "500+",
+        "elenco": [
+            "Olivia Benson (Mariska)"
+        ],
+        "curiosidade": "As notas dramáticas Dum dum ecoaram por gerações moldando a nossa mente na hora que precisassemos bater o pé demonstrando crimes resolvidos firmemente pra não errar feio por muito."
+    },
+    "NCIS": {
+        "nome_pt": "NCIS: Investigações Navais",
+        "nome_en": "NCIS",
+        "genero": "Militares Forenses Global Pop",
+        "ano": "2003 ao Presente",
+        "temporadas": "21+",
+        "episodios": "460+",
+        "elenco": [
+            "Gibbs (Mark Harmon)"
+        ],
+        "curiosidade": "Bateu os estribos americanos sendo super sucesso duradouro lá se fixando pra vida fardada militar em navios de morte perigosíssima explodindo pra glória sem limites das TVs até aqui."
+    },
+    "MacGyver (Profissão Perigo)": {
+        "nome_pt": "MacGyver (Profissão Perigo)",
+        "nome_en": "MacGyver",
+        "genero": "Heroismo Engenheiro e Imparável Improviso",
+        "ano": "1985 a 1992",
+        "temporadas": "7",
+        "episodios": "139",
+        "elenco": [
+            "Angus MacGyver (Richard Dean Anderson)"
+        ],
+        "curiosidade": "Seu dom gerou verbo real. Desarmar a bomba misturando limões com fita virou o ícone que se apelida pra alguém dando um jeitinho milagroso gambiarrado que o salva pela unha do gênio!"
+    },
+    "Ruptura": {
+        "nome_pt": "Ruptura",
+        "nome_en": "Severance",
+        "genero": "Corporativo Mental Tensão Brancura Suspense",
+        "ano": "2022 ao Presente",
+        "temporadas": "1+",
+        "episodios": "9+",
+        "elenco": [
+            "Mark Scout (Adam Scott)"
+        ],
+        "curiosidade": "Criou tensão bizarra mostrando apagando nossas mentes pra suportar apenas trabalho repetitivos enquanto eles lá da fábrica sequer soubessem quem é a alma da luz fora disso e gerassem dores claustrófobicas pra exploração limpa perfeita"
+    },
+    "SOS Malibu": {
+        "nome_pt": "S O S Malibu",
+        "nome_en": "Baywatch",
+        "genero": "Herois Litorâneos Sol e Moda Modelada Dramática de Areias Rápido Resgate Praiano!",
+        "ano": "1989 a 2001",
+        "temporadas": "11",
+        "episodios": "242",
+        "elenco": [
+            "Mitch (David Hasselhoff)",
+            "C.J Parker"
+        ],
+        "curiosidade": "Os longos salvamentos belíssimos correndo dramaticamente sem nenhuma velocidade no auge solar marcou a eternidade de humor e admiração pura dos globos na telinha com pranchões bóias gigantes."
+    },
+    "Star Trek": {
+        "nome_pt": "Jornada nas Estrelas",
+        "nome_en": "Star Trek",
+        "genero": "Gênesis do Sci-fi Clássico Inteligência Espacial Pioneira Absoluta",
+        "ano": "1966 a 1969",
+        "temporadas": "3",
+        "episodios": "80",
+        "elenco": [
+            "James Kirk (Shatner)",
+            "Spock (Leonard)"
+        ],
+        "curiosidade": "Deu a humanidade a visão do engenho q forçou nerds amarem as coisas. Como por exemplo: Criar celular tijolão Startack pq parecia nos dedinhos do Spock lá pras gravações sonhadoras das viagen galácticas dos corajosos e ousadas."
+    },
+    "Seinfeld": {
+        "nome_pt": "Seinfeld",
+        "nome_en": "Seinfeld",
+        "genero": "Comédia Vazia Nova Yorquina Incontestável Fria e Gênial Nada Importa Para Ego",
+        "ano": "1989 a 1998",
+        "temporadas": "9",
+        "episodios": "180",
+        "elenco": [
+            "Jerry Seinfeld",
+            "George Costanza"
+        ],
+        "curiosidade": "Abdicando de todas formulas doces de roteiros românticas os caras montaram sobre esperar ônibus um riso infinito que gerou para eles os bilhões do topo se aliando sem moral as misérias do amigo nas tramas minúsculas do apartamento super genial!"
+    },
+    "The Crown": {
+        "nome_pt": "A Coroa",
+        "nome_en": "The Crown",
+        "genero": "Realidade Brilhante Sofrimento de Status Monárquico Ofuscado Político!",
+        "ano": "2016 a 2023",
+        "temporadas": "6",
+        "episodios": "60",
+        "elenco": [
+            "Rainha Elizabeth II",
+            "Princesa Diana Realistas"
+        ],
+        "curiosidade": "Gastou montantes insanos de bilheterias em palacios reais só nas roupas minuciosíssimas dos fatos e causou polêmicas nos dias do óbito chovendo engajamentos para não mostrarem a carruagem real sombria esticada fofoqueiras pra tv e ofendendo reis com dramaturgia linda!"
+    },
+    "Os Jetsons": {
+        "nome_pt": "Os Jetsons",
+        "nome_en": "The Jetsons",
+        "genero": "Cartunizações Utopias Robô Futurísticas das Máquinas Simples Céus Voadores da TV Oito!",
+        "ano": "1962 a 1987",
+        "temporadas": "3",
+        "episodios": "75",
+        "elenco": [
+            "George",
+            "Astro",
+            "Rosie (Robô)"
+        ],
+        "curiosidade": "O fato é que serviram do molde contraposto das idades rochosas trazendo naves esferas automáticas chefes durões fáceis em 2062 marcando pra época uma facilidade sonhadora."
+    },
+    "The O.C.": {
+        "nome_pt": "The O.C. (Um Estranho no Paraíso)",
+        "nome_en": "The O.C.",
+        "genero": "Jovens Sulistas Sol Califórnia Riquezas Tragédia Novelas Bandas Indiefilms Fáceis de Sangue Lutos Socorro Musical Amor Pop",
+        "ano": "2003 a 2007",
+        "temporadas": "4",
+        "episodios": "92",
+        "elenco": [
+            "Ryan (Ben McKenzie)",
+            "Seth Cohen"
+        ],
+        "curiosidade": "O Indie estourou junto pq pra eles tocavam as bandas jovens nos decks da sala virando MTV de trilha. Entenderam e fizeram o nerd rico Seth ser querido global!"
+    },
+    "Westworld": {
+        "nome_pt": "Westworld",
+        "nome_en": "Westworld",
+        "genero": "Andróides Mortais Reborn Sádico Filosófico Pesado!",
+        "ano": "2016 a 2022",
+        "temporadas": "4",
+        "episodios": "36",
+        "elenco": [
+            "Dolores",
+            "Homem Preto (Ed Harris)",
+            "Ford (Hopkins)"
+        ],
+        "curiosidade": "Matavam sem dó no set robós de cowbói nos jogos bilionários achando inofensiveis mas as mãqiunas lembraram de tudo. Foi incrivel a volta mental violenta de quem acorda no loop nas maos de deuses sombrios corporativos ricos frios ocidentais labirinticos!"
+    },
+    "Todo Mundo Adora o Raymond": {
+        "nome_pt": "Todo Mundo Adora o Raymond",
+        "nome_en": "Everybody Loves Raymond",
+        "genero": "Comédia / Sitcom",
+        "ano": "1996 a 2005",
+        "temporadas": "9",
+        "episodios": "210",
+        "elenco": [
+            "Ray Barone (Ray Romano)",
+            "Debra Barone (Patricia Heaton)",
+            "Robert Barone (Brad Garrett)",
+            "Marie Barone (Doris Roberts)",
+            "Frank Barone (Peter Boyle)"
+        ],
+        "curiosidade": "Uma das sitcoms mais premiadas dos anos 90, baseada na vida real do comediante Ray Romano. A dinâmica entre o casal protagonista e os sogros intrometidos que moravam na casa da frente tornou-se um clássico da TV americana!"
+    },
+    "South Park": {
+        "nome_pt": "South Park",
+        "nome_en": "South Park",
+        "genero": "Animação adulta, Comédia satírica",
+        "ano": "1997 até o presente",
+        "temporadas": "26 (até 2023, atualmente)",
+        "episodios": "26 ",
+        "elenco": [
+            "330+ episódios"
+        ],
+        "curiosidade": "Um dos aspectos mais impressionantes de South Park é sua velocidade de produção. Os criadores Trey Parker e Matt Stone conseguem produzir um episódio completo em cerca de apenas 6 dias, permitindo que a série satirize eventos extremamente recentes — algo raríssimo na televisão animada. Esse processo foi documentado no especial “6 Days to Air”, que mostra os bastidores caóticos da criação de um episódio."
+    },
+    "Eu, a Patroa e as Crianças": {
+        "nome_pt": "Eu, a Patroa e as Crianças",
+        "nome_en": "My Wife and Kids",
+        "genero": "Comédia, Sitcom familiar",
+        "ano": "2001 a 2005",
+        "temporadas": "5",
+        "episodios": "123 episódios",
+        "elenco": [
+            "Damon Wayans",
+            "Tisha Campbell",
+            "George O. Gore II",
+            "Jennifer Freeman",
+            "Parker McKenna Posey"
+        ],
+        "curiosidade": "O personagem Michael Kyle, interpretado por Damon Wayans, foi inspirado no próprio estilo de humor do ator, que frequentemente improvisava falas durante as gravações — muitas dessas improvisações acabaram entrando nos episódios finais. Além disso, a série é conhecida por ter mudado de atriz para a personagem Claire Kyle após a primeira temporada, algo que muitos fãs perceberam imediatamente, mas que nunca foi explicado dentro da história."
+    },
+    "Eu a Patroa e as Crianças": {
+        "nome_pt": "Eu a Patroa e as Crianças",
+        "nome_en": "My Wife and Kids",
+        "genero": "Comédia, Sitcom familiar",
+        "ano": "2001 a 2005",
+        "temporadas": "5",
+        "episodios": "123 episódios",
+        "elenco": [
+            "Damon Wayans",
+            "Tisha Campbell",
+            "George O. Gore II",
+            "Jennifer Freeman",
+            "Parker McKenna Posey"
+        ],
+        "curiosidade": "O personagem Michael Kyle, interpretado por Damon Wayans, foi inspirado no próprio estilo de humor do ator, que frequentemente improvisava falas durante as gravações — muitas dessas improvisações acabaram entrando nos episódios finais. Além disso, a série é conhecida por ter mudado de atriz para a personagem Claire Kyle após a primeira temporada, algo que muitos fãs perceberam imediatamente, mas que nunca foi explicado dentro da história."
+    }
+}

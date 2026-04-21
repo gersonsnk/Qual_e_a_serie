@@ -1,0 +1,830 @@
+[
+    {
+        "id": 1,
+        "serie_correta": "Friends",
+        "audio_url": "/musicas/Friends.mp3",
+        "opcoes": [
+            "How I Met Your Mother",
+            "Friends",
+            "The Office",
+            "Seinfeld"
+        ],
+        "dificuldade": 1
+    },
+    {
+        "id": 2,
+        "serie_correta": "Castelo Rá-Tim-Bum",
+        "audio_url": "/musicas/Castelo Rá-Tim-Bum.mp3",
+        "opcoes": [
+            "Sítio do Picapau Amarelo",
+            "Castelo Rá-Tim-Bum",
+            "Mundo da Lua",
+            "Vila Sésamo"
+        ],
+        "dificuldade": 1
+    },
+    {
+        "id": 3,
+        "serie_correta": "Game of Thrones",
+        "audio_url": "/musicas/Game of Thrones.mp3",
+        "opcoes": [
+            "Vikings",
+            "The Last Kingdom",
+            "The Witcher",
+            "Game of Thrones"
+        ],
+        "dificuldade": 1
+    },
+    {
+        "id": 4,
+        "serie_correta": "Um Maluco no Pedaço",
+        "audio_url": "/musicas/Um Maluco no Pedaço.mp3",
+        "opcoes": [
+            "Kenan & Kel",
+            "Três é Demais",
+            "Todo Mundo Odeia o Chris",
+            "Um Maluco no Pedaço"
+        ],
+        "dificuldade": 1
+    },
+    {
+        "id": 5,
+        "serie_correta": "Todo Mundo Odeia o Chris",
+        "audio_url": "/musicas/Todo Mundo Odeia o Chris.mp3",
+        "opcoes": [
+            "Eu, a Patroa e as Crianças",
+            "Todo Mundo Odeia o Chris",
+            "My Wife and Kids",
+            "Três é Demais"
+        ],
+        "dificuldade": 1
+    },
+    {
+        "id": 6,
+        "serie_correta": "Stranger Things",
+        "audio_url": "/musicas/Stranger Things.mp3",
+        "opcoes": [
+            "Dark",
+            "Stranger Things",
+            "Fringe",
+            "The OA"
+        ],
+        "dificuldade": 1
+    },
+    {
+        "id": 7,
+        "serie_correta": "A Casa do Dragão",
+        "audio_url": "/musicas/A Casa do Dragão.mp3",
+        "opcoes": [
+            "The Last Kingdom",
+            "A Casa do Dragão",
+            "Vikings",
+            "The Witcher"
+        ],
+        "dificuldade": 1
+    },
+    {
+        "id": 8,
+        "serie_correta": "The Big Bang Theory",
+        "audio_url": "/musicas/The Big Bang Theory.mp3",
+        "opcoes": [
+            "Two and a Half Men",
+            "How I Met Your Mother",
+            "The Big Bang Theory",
+            "Friends"
+        ],
+        "dificuldade": 1
+    },
+    {
+        "id": 9,
+        "serie_correta": "La Casa de Papel",
+        "audio_url": "/musicas/La casa de papel.mp3",
+        "opcoes": [
+            "Vis a Vis",
+            "Elite",
+            "La Casa de Papel",
+            "Lupin"
+        ],
+        "dificuldade": 1
+    },
+    {
+        "id": 10,
+        "serie_correta": "Os Flintstones",
+        "audio_url": "/musicas/THE FLINTSTONES.mp3",
+        "opcoes": [
+            "Os Jetsons",
+            "Os Flintstones",
+            "Zé Colmeia",
+            "Pica-Pau"
+        ],
+        "dificuldade": 1
+    },
+    {
+        "id": 11,
+        "serie_correta": "The Walking Dead",
+        "audio_url": "/musicas/The Walking Dead.mp3",
+        "opcoes": [
+            "Fear The Walking Dead",
+            "Z Nation",
+            "The Walking Dead",
+            "The Last of Us"
+        ],
+        "dificuldade": 1
+    },
+    {
+        "id": 12,
+        "serie_correta": "Round 6",
+        "audio_url": "/musicas/Round 6.mp3",
+        "opcoes": [
+            "Alice in Borderland",
+            "Round 6",
+            "Pousando no Amor",
+            "All of Us Are Dead"
+        ],
+        "dificuldade": 1
+    },
+    {
+        "id": 13,
+        "serie_correta": "Wandinha",
+        "audio_url": "/musicas/Wandinha.mp3",
+        "opcoes": [
+            "O Mundo Sombrio de Sabrina",
+            "Família Addams",
+            "Wandinha",
+            "Riverdale"
+        ],
+        "dificuldade": 1
+    },
+    {
+        "id": 14,
+        "serie_correta": "The Office",
+        "audio_url": "/musicas/The Office (US).mp3",
+        "opcoes": [
+            "Parks and Recreation",
+            "The Office",
+            "Brooklyn Nine-Nine",
+            "Modern Family"
+        ],
+        "dificuldade": 1
+    },
+    {
+        "id": 15,
+        "serie_correta": "Breaking Bad",
+        "audio_url": "/musicas/Breaking Bad.mp3",
+        "opcoes": [
+            "Better Call Saul",
+            "Ozark",
+            "Breaking Bad",
+            "Fargo"
+        ],
+        "dificuldade": 1
+    },
+    {
+        "id": 17,
+        "serie_correta": "Supernatural",
+        "audio_url": "/musicas/Supernatural.mp3",
+        "opcoes": [
+            "Supernatural",
+            "The Vampire Diaries",
+            "Grimm",
+            "Teen Wolf"
+        ],
+        "dificuldade": 1
+    },
+    {
+        "id": 18,
+        "serie_correta": "Dexter",
+        "audio_url": "/musicas/Dexter.mp3",
+        "opcoes": [
+            "Hannibal",
+            "Bates Motel",
+            "Dexter",
+            "You"
+        ],
+        "dificuldade": 1
+    },
+    {
+        "id": 19,
+        "serie_correta": "CSI Las Vegas",
+        "audio_url": "/musicas/CSI Las Vegas.mp3",
+        "opcoes": [
+            "Dexter",
+            "CSI Las Vegas",
+            "Bones",
+            "Law & Order"
+        ],
+        "dificuldade": 1
+    },
+    {
+        "id": 20,
+        "serie_correta": "Two and a Half Men",
+        "audio_url": "/musicas/Two and a Half Men.mp3",
+        "opcoes": [
+            "How I Met Your Mother",
+            "The Big Bang Theory",
+            "Two and a Half Men",
+            "Spin City"
+        ],
+        "dificuldade": 1
+    },
+    {
+        "id": 21,
+        "serie_correta": "Smallville",
+        "audio_url": "/musicas/Smallville.mp3",
+        "opcoes": [
+            "Supernatural",
+            "Smallville",
+            "Arrow",
+            "The Flash"
+        ],
+        "dificuldade": 1
+    },
+    {
+        "id": 24,
+        "serie_correta": "Modern Family",
+        "audio_url": "/musicas/Modern Family.mp3",
+        "opcoes": [
+            "Arrested Development",
+            "Modern Family",
+            "The Middle",
+            "Black-ish"
+        ],
+        "dificuldade": 1
+    },
+    {
+        "id": 25,
+        "serie_correta": "Brooklyn Nine-Nine",
+        "audio_url": "/musicas/Brooklyn Nine-Nine.mp3",
+        "opcoes": [
+            "The Office",
+            "New Girl",
+            "Brooklyn Nine-Nine",
+            "Superstore"
+        ],
+        "dificuldade": 1
+    },
+    {
+        "id": 31,
+        "serie_correta": "24 Horas",
+        "audio_url": "/musicas/24 Horas.mp3",
+        "opcoes": [
+            "Prison Break",
+            "24 Horas",
+            "Homeland",
+            "Designated Survivor"
+        ],
+        "dificuldade": 1
+    },
+    {
+        "id": 32,
+        "serie_correta": "A Super Máquina",
+        "audio_url": "/musicas/A Super Máquina.mp3",
+        "opcoes": [
+            "A Super Máquina",
+            "Esquadrão Classe A",
+            "Miami Vice",
+            "Magnum"
+        ],
+        "dificuldade": 1
+    },
+    {
+        "id": 36,
+        "serie_correta": "Arquivo X",
+        "audio_url": "/musicas/Arquivo X.mp3",
+        "opcoes": [
+            "Além da Imaginação",
+            "Arquivo X",
+            "Twin Peaks",
+            "Fringe"
+        ],
+        "dificuldade": 1
+    },
+    {
+        "id": 43,
+        "serie_correta": "Chuck",
+        "audio_url": "/musicas/Chuck - Fred Davin.mp3",
+        "opcoes": [
+            "Psych",
+            "Chuck",
+            "Castle",
+            "Monk"
+        ],
+        "dificuldade": 1
+    },
+    {
+        "id": 46,
+        "serie_correta": "Dr. House",
+        "audio_url": "/musicas/Dr. House 2.mp3",
+        "opcoes": [
+            "Grey's Anatomy",
+            "ER",
+            "Dr. House",
+            "Scrubs"
+        ],
+        "dificuldade": 1
+    },
+    {
+        "id": 53,
+        "serie_correta": "Lost",
+        "audio_url": "/musicas/LOST.mp3",
+        "opcoes": [
+            "Lost",
+            "Fringe",
+            "The 100",
+            "Manifest"
+        ],
+        "dificuldade": 1
+    },
+    {
+        "id": 60,
+        "serie_correta": "Seinfeld",
+        "audio_url": "/musicas/Seinfeld.mp3",
+        "opcoes": [
+            "Friends",
+            "Curb Your Enthusiasm",
+            "Seinfeld",
+            "Frasier"
+        ],
+        "dificuldade": 1
+    },
+    {
+        "id": 63,
+        "serie_correta": "The O.C.",
+        "audio_url": "/musicas/The OC. Um Estranho no Paraíso..mp3",
+        "opcoes": [
+            "One Tree Hill",
+            "The O.C.",
+            "Gossip Girl",
+            "Dawson's Creek"
+        ],
+        "dificuldade": 1
+    },
+    {
+        "id": 64,
+        "serie_correta": "Westworld",
+        "audio_url": "/musicas/Westworld.mp3",
+        "opcoes": [
+            "Altered Carbon",
+            "Fringe",
+            "Westworld",
+            "Humans"
+        ],
+        "dificuldade": 1
+    },
+    {
+        "id": 66,
+        "serie_correta": "The Big Bang Theory",
+        "audio_url": "/musicas/Big Bang A Teoria.mp3",
+        "opcoes": [
+            "Young Sheldon",
+            "The Big Bang Theory",
+            "Friends",
+            "Two and a Half Men"
+        ],
+        "dificuldade": 1
+    },
+    {
+        "id": 67,
+        "serie_correta": "Dr. House",
+        "audio_url": "/musicas/Dr. House.mp3",
+        "opcoes": [
+            "Grey's Anatomy",
+            "The Good Doctor",
+            "Dr. House",
+            "ER"
+        ],
+        "dificuldade": 1
+    },
+    {
+        "id": 16,
+        "serie_correta": "Prison Break",
+        "audio_url": "/musicas/Prison Break.mp3",
+        "opcoes": [
+            "Oz",
+            "24 Horas",
+            "Prison Break",
+            "La Casa de Papel"
+        ],
+        "dificuldade": 2
+    },
+    {
+        "id": 23,
+        "serie_correta": "The Last of Us",
+        "audio_url": "/musicas/The Last of Us.mp3",
+        "opcoes": [
+            "The Walking Dead",
+            "Station Eleven",
+            "The Last of Us",
+            "Chernobyl"
+        ],
+        "dificuldade": 2
+    },
+    {
+        "id": 27,
+        "serie_correta": "Dark",
+        "audio_url": "/musicas/Dark.mp3",
+        "opcoes": [
+            "1899",
+            "Stranger Things",
+            "Dark",
+            "Fringe"
+        ],
+        "dificuldade": 2
+    },
+    {
+        "id": 28,
+        "serie_correta": "Black Mirror",
+        "audio_url": "/musicas/Black Mirror.mp3",
+        "opcoes": [
+            "Além da Imaginação",
+            "Love, Death & Robots",
+            "Black Mirror",
+            "Electric Dreams"
+        ],
+        "dificuldade": 2
+    },
+    {
+        "id": 33,
+        "serie_correta": "A Nova Super Máquina",
+        "audio_url": "/musicas/A Nova Super Máquina.mp3",
+        "opcoes": [
+            "CHiPs",
+            "A Nova Super Máquina",
+            "Transformers",
+            "MacGyver"
+        ],
+        "dificuldade": 3
+    },
+    {
+        "id": 40,
+        "serie_correta": "C.S.I. Miami",
+        "audio_url": "/musicas/C.S.I. Miami.mp3",
+        "opcoes": [
+            "C.S.I. Miami",
+            "C.S.I. New York",
+            "CSI Las Vegas",
+            "NCIS"
+        ],
+        "dificuldade": 2
+    },
+    {
+        "id": 48,
+        "serie_correta": "From",
+        "audio_url": "/musicas/From.mp3",
+        "opcoes": [
+            "Lost",
+            "From",
+            "Silo",
+            "The Last of Us"
+        ],
+        "dificuldade": 2
+    },
+    {
+        "id": 51,
+        "serie_correta": "IT: Bem-Vindos a Derry",
+        "audio_url": "/musicas/IT Bem-Vindos A Derry.mp3",
+        "opcoes": [
+            "IT: Bem-Vindos a Derry",
+            "Stranger Things",
+            "Chucky",
+            "Bates Motel"
+        ],
+        "dificuldade": 2
+    },
+    {
+        "id": 22,
+        "serie_correta": "The Boys",
+        "audio_url": "/musicas/The Boys.mp3",
+        "opcoes": [
+            "Invincible",
+            "The Umbrella Academy",
+            "The Boys",
+            "Gen V"
+        ],
+        "dificuldade": 3
+    },
+    {
+        "id": 26,
+        "serie_correta": "Peaky Blinders",
+        "audio_url": "/musicas/Peaky Blinders.mp3",
+        "opcoes": [
+            "Boardwalk Empire",
+            "Mad Men",
+            "Peaky Blinders",
+            "Sons of Anarchy"
+        ],
+        "dificuldade": 3
+    },
+    {
+        "id": 29,
+        "serie_correta": "Loki",
+        "audio_url": "/musicas/LOKI.mp3",
+        "opcoes": [
+            "WandaVision",
+            "Doctor Who",
+            "Loki",
+            "Legion"
+        ],
+        "dificuldade": 3
+    },
+    {
+        "id": 30,
+        "serie_correta": "O Senhor dos Anéis: Os Anéis de Poder",
+        "audio_url": "/musicas/O Senhor dos Anéis Os Anéis de Poder.mp3",
+        "opcoes": [
+            "Game of Thrones",
+            "A Roda do Tempo",
+            "O Senhor dos Anéis: Os Anéis de Poder",
+            "The Witcher"
+        ],
+        "dificuldade": 3
+    },
+    {
+        "id": 34,
+        "serie_correta": "Além da Imaginação",
+        "audio_url": "/musicas/Além da Imaginação.mp3",
+        "opcoes": [
+            "Além da Imaginação",
+            "Arquivo X",
+            "Fringe",
+            "Black Mirror"
+        ],
+        "dificuldade": 3
+    },
+    {
+        "id": 35,
+        "serie_correta": "American Horror Story",
+        "audio_url": "/musicas/American Horror Story.mp3",
+        "opcoes": [
+            "Penny Dreadful",
+            "Bates Motel",
+            "American Horror Story",
+            "Scream Queens"
+        ],
+        "dificuldade": 3
+    },
+    {
+        "id": 37,
+        "serie_correta": "Barrados no Baile",
+        "audio_url": "/musicas/Barrados no Baile.mp3",
+        "opcoes": [
+            "Gossip Girl",
+            "Melrose Place",
+            "Dawson's Creek",
+            "Barrados no Baile"
+        ],
+        "dificuldade": 3
+    },
+    {
+        "id": 38,
+        "serie_correta": "Bones",
+        "audio_url": "/musicas/Bones.mp3",
+        "opcoes": [
+            "Castle",
+            "Bones",
+            "Dexter",
+            "CSI"
+        ],
+        "dificuldade": 3
+    },
+    {
+        "id": 39,
+        "serie_correta": "Buffy, a Caça-Vampiros",
+        "audio_url": "/musicas/Buffy, a Caça-Vampiros.mp3",
+        "opcoes": [
+            "Buffy, a Caça-Vampiros",
+            "Charmed",
+            "Xena",
+            "Sabrina"
+        ],
+        "dificuldade": 3
+    },
+    {
+        "id": 41,
+        "serie_correta": "C.S.I. New York",
+        "audio_url": "/musicas/C.S.I. New York.mp3",
+        "opcoes": [
+            "C.S.I. Miami",
+            "C.S.I. New York",
+            "Criminal Minds",
+            "NCIS"
+        ],
+        "dificuldade": 3
+    },
+    {
+        "id": 42,
+        "serie_correta": "Chucky",
+        "audio_url": "/musicas/CHUCKY.mp3",
+        "opcoes": [
+            "Chucky",
+            "Bates Motel",
+            "IT Bem-Vindos A Derry",
+            "Annabelle"
+        ],
+        "dificuldade": 3
+    },
+    {
+        "id": 44,
+        "serie_correta": "Criminal Minds",
+        "audio_url": "/musicas/Criminal Minds.mp3",
+        "opcoes": [
+            "Mindhunter",
+            "FBI",
+            "Criminal Minds",
+            "SVU"
+        ],
+        "dificuldade": 3
+    },
+    {
+        "id": 45,
+        "serie_correta": "Doctor Who",
+        "audio_url": "/musicas/Doctor Who.mp3",
+        "opcoes": [
+            "Sherlock",
+            "Fringe",
+            "Doctor Who",
+            "Supernatural"
+        ],
+        "dificuldade": 3
+    },
+    {
+        "id": 47,
+        "serie_correta": "Fallout",
+        "audio_url": "/musicas/Fallout.mp3",
+        "opcoes": [
+            "The Last of Us",
+            "Silo",
+            "Fallout",
+            "Twisted Metal"
+        ],
+        "dificuldade": 3
+    },
+    {
+        "id": 49,
+        "serie_correta": "Heroes",
+        "audio_url": "/musicas/Heroes.mp3",
+        "opcoes": [
+            "Misfits",
+            "The Boys",
+            "Heroes",
+            "Watchmen"
+        ],
+        "dificuldade": 3
+    },
+    {
+        "id": 50,
+        "serie_correta": "How I Met Your Mother",
+        "audio_url": "/musicas/How I Met Your Mother.mp3",
+        "opcoes": [
+            "Friends",
+            "How I Met Your Mother",
+            "New Girl",
+            "Scrubs"
+        ],
+        "dificuldade": 3
+    },
+    {
+        "id": 52,
+        "serie_correta": "Kenan & Kel",
+        "audio_url": "/musicas/Kenan and Kel.mp3",
+        "opcoes": [
+            "Drake & Josh",
+            "Kenan & Kel",
+            "iCarly",
+            "Todo Mundo Odeia o Chris"
+        ],
+        "dificuldade": 3
+    },
+    {
+        "id": 54,
+        "serie_correta": "Lei & Ordem",
+        "audio_url": "/musicas/Lei & Ordem.mp3",
+        "opcoes": [
+            "CSI",
+            "Criminal Minds",
+            "NCIS",
+            "Lei & Ordem"
+        ],
+        "dificuldade": 3
+    },
+    {
+        "id": 55,
+        "serie_correta": "NCIS",
+        "audio_url": "/musicas/NCIS.mp3",
+        "opcoes": [
+            "JAG",
+            "Hawaii Five-0",
+            "NCIS",
+            "CSI"
+        ],
+        "dificuldade": 3
+    },
+    {
+        "id": 56,
+        "serie_correta": "MacGyver (Profissão Perigo)",
+        "audio_url": "/musicas/Profissão Perigo.mp3",
+        "opcoes": [
+            "A Super Máquina",
+            "Esquadrão Classe A",
+            "MacGyver (Profissão Perigo)",
+            "Magnum P.I."
+        ],
+        "dificuldade": 3
+    },
+    {
+        "id": 57,
+        "serie_correta": "Ruptura",
+        "audio_url": "/musicas/Ruptura.mp3",
+        "opcoes": [
+            "Black Mirror",
+            "Mr. Robot",
+            "Ruptura",
+            "Silo"
+        ],
+        "dificuldade": 3
+    },
+    {
+        "id": 58,
+        "serie_correta": "SOS Malibu",
+        "audio_url": "/musicas/SOS Malibu.mp3",
+        "opcoes": [
+            "Hawaii Five-0",
+            "Miami Vice",
+            "SOS Malibu",
+            "Magnum P.I."
+        ],
+        "dificuldade": 3
+    },
+    {
+        "id": 59,
+        "serie_correta": "Star Trek",
+        "audio_url": "/musicas/STAR TREK.mp3",
+        "opcoes": [
+            "Star Wars",
+            "Battlestar Galactica",
+            "Doctor Who",
+            "Star Trek"
+        ],
+        "dificuldade": 3
+    },
+    {
+        "id": 61,
+        "serie_correta": "The Crown",
+        "audio_url": "/musicas/The Crown.mp3",
+        "opcoes": [
+            "Downton Abbey",
+            "The Crown",
+            "Bridgerton",
+            "The Great"
+        ],
+        "dificuldade": 3
+    },
+    {
+        "id": 62,
+        "serie_correta": "Os Jetsons",
+        "audio_url": "/musicas/The Jetsons.mp3",
+        "opcoes": [
+            "Os Jetsons",
+            "Os Flintstones",
+            "Futurama",
+            "Scooby-Doo"
+        ],
+        "dificuldade": 3
+    },
+    {
+        "id": 65,
+        "serie_correta": "Todo Mundo Adora o Raymond",
+        "audio_url": "/musicas/Todo mundo adora o Raymond.mp3",
+        "opcoes": [
+            "The King of Queens",
+            "Todo Mundo Adora o Raymond",
+            "Seinfeld",
+            "Two and a Half Men"
+        ],
+        "dificuldade": 3
+    },
+    {
+        "id": 68,
+        "serie_correta": "South Park",
+        "audio_url": "/musicas/South Park.mp3",
+        "opcoes": [
+            "South Park",
+            "Family Guy",
+            "The Simpsons",
+            "Rick and Morty"
+        ],
+        "dificuldade": 1
+    },
+    {
+        "id": 69,
+        "serie_correta": "Eu a Patroa e as Crianças",
+        "audio_url": "/musicas/Eu a Patroa e as Crianças.mp3",
+        "opcoes": [
+            "Todo Mundo Odeia o Chris",
+            "Eu a Patroa e as Crianças",
+            "Um Maluco no Pedaço",
+            "As Aventuras de Steve Urkel"
+        ],
+        "dificuldade": 2
+    }
+]
