@@ -1,6 +1,6 @@
 import { Platform } from 'react-native';
 
-const DEFAULT_IP = "192.168.100.159";
+const DEFAULT_IP = "192.168.100.105";
 const STORAGE_KEY = "GAME_SERVER_IP";
 
 /**

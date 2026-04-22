@@ -14,17 +14,25 @@ export default function TabLayout() {
   return (
     <Tabs
       screenOptions={{
-        tabBarActiveTintColor: Colors[colorScheme ?? 'light'].tint,
+        tabBarActiveTintColor: '#818cf8',
+        tabBarInactiveTintColor: '#475569',
         headerShown: false,
         tabBarButton: HapticTab,
         tabBarLabelPosition: 'below-icon',
-        tabBarIconStyle: { width: 40, height: 40, overflow: 'visible' }, // Aumenta a área de toque e visão
+        tabBarLabelStyle: { fontSize: 11, fontWeight: '700', letterSpacing: 0.5 },
+        tabBarIconStyle: { width: 40, height: 40, overflow: 'visible' },
         tabBarStyle: {
-          backgroundColor: '#1e293b',
-          borderTopWidth: 0,
-          height: 85,
-          paddingBottom: 20,
-          paddingTop: 5,
+          backgroundColor: 'rgba(15,23,42,0.97)',
+          borderTopWidth: 1,
+          borderTopColor: 'rgba(99,102,241,0.25)',
+          height: 88,
+          paddingBottom: 18,
+          paddingTop: 8,
+          elevation: 20,
+          shadowColor: '#6366f1',
+          shadowOffset: { width: 0, height: -4 },
+          shadowOpacity: 0.15,
+          shadowRadius: 12,
         }
       }}>
       <Tabs.Screen
@@ -57,8 +65,8 @@ export default function TabLayout() {
             if (!nome.trim() || !sobrenome.trim()) {
               e.preventDefault(); // Impede a navegação
               Alert.alert(
-                "Acesso Bloqueado",
-                "Por favor, volte ao Início e digite seu nome e sobrenome para participar do ranking!"
+                "Game não iniciado",
+                "Clique em JOGAR AGORA!"
               );
             }
           },
