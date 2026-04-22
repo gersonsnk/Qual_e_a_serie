@@ -15,6 +15,7 @@ pip install -r requirements.txt
 3. Inicie o servidor:
 
 ```bash
+cd .\backend\
 python -m uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 ```
 
@@ -25,6 +26,7 @@ python -m uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 Em outro terminal:
 
 ```bash
+cd .\frontend\
 npm start
 ```
 

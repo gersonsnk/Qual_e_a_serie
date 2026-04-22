@@ -826,5 +826,29 @@
             "As Aventuras de Steve Urkel"
         ],
         "dificuldade": 2
+    },
+    {
+        "id": 70,
+        "serie_correta": "O Rei do Bairro",
+        "audio_url": "/musicas/O Rei do Bairro.mp3",
+        "opcoes": [
+            "Everybody Loves Raymond",
+            "O Rei do Bairro",
+            "According to Jim",
+            "Still Standing"
+        ],
+        "dificuldade": 1
+    },
+    {
+        "id": 71,
+        "serie_correta": "O Mundo Sombrio de Sabrina",
+        "audio_url": "/musicas/O Mundo Sombrio de Sabrina.mp3",
+        "opcoes": [
+            "O Mundo Sombrio de Sabrina",
+            "The Witcher",
+            "American Horror Story",
+            "Riverdale"
+        ],
+        "dificuldade": 3
     }
 ]
