@@ -49,10 +49,12 @@ function FloatingOrb({ delay, x, size, color }: { delay: number; x: number; size
   }));
 
   return (
-    <Animated.View style={[{
-      position: 'absolute', left: x, width: size, height: size,
-      borderRadius: size / 2, backgroundColor: color,
-    }, style]} />
+    <Animated.View
+      pointerEvents="none"
+      style={[{
+        position: 'absolute', left: x, width: size, height: size,
+        borderRadius: size / 2, backgroundColor: color,
+      }, style]} />
   );
 }
 
@@ -87,9 +89,9 @@ export default function HomeScreen() {
   const [sobrenome, setSobrenome] = useState('');
   const [ranking, setRanking] = useState<any[]>([]);
   const [loading, setLoading] = useState(true);
-  const [nomeFocused, setNomeFocused] = useState(false);
-  const [sobrenomeFocused, setSobrenomeFocused] = useState(false);
   const isNavigating = useRef(false);
+  const nomeWrapperRef = useRef<View>(null);
+  const sobrenomeWrapperRef = useRef<View>(null);
 
   // Animações do botão
   const btnScale = useSharedValue(1);
@@ -179,7 +181,7 @@ export default function HomeScreen() {
           start={{ x: 0, y: 0 }} end={{ x: 1, y: 1 }}
         />
 
-        <View style={[styles.inputWrapper, nomeFocused && styles.inputWrapperFocused]}>
+        <View ref={nomeWrapperRef} style={styles.inputWrapper}>
           <Text style={styles.inputIcon}>👤</Text>
           <TextInput
             style={styles.input}
@@ -187,12 +189,26 @@ export default function HomeScreen() {
             placeholderTextColor="#475569"
             value={nome}
             onChangeText={setNome}
-            onFocus={() => setNomeFocused(true)}
-            onBlur={() => setNomeFocused(false)}
+            onFocus={() => {
+              nomeWrapperRef.current?.setNativeProps({
+                style: {
+                  borderColor: '#6366f1',
+                  borderWidth: 1.5
+                }
+              });
+            }}
+            onBlur={() => {
+              nomeWrapperRef.current?.setNativeProps({
+                style: {
+                  borderColor: '#1e293b',
+                  borderWidth: 1.5
+                }
+              });
+            }}
           />
         </View>
 
-        <View style={[styles.inputWrapper, sobrenomeFocused && styles.inputWrapperFocused]}>
+        <View ref={sobrenomeWrapperRef} style={styles.inputWrapper}>
           <Text style={styles.inputIcon}>✍️</Text>
           <TextInput
             style={styles.input}
@@ -200,8 +216,22 @@ export default function HomeScreen() {
             placeholderTextColor="#475569"
             value={sobrenome}
             onChangeText={setSobrenome}
-            onFocus={() => setSobrenomeFocused(true)}
-            onBlur={() => setSobrenomeFocused(false)}
+            onFocus={() => {
+              sobrenomeWrapperRef.current?.setNativeProps({
+                style: {
+                  borderColor: '#6366f1',
+                  borderWidth: 1.5
+                }
+              });
+            }}
+            onBlur={() => {
+              sobrenomeWrapperRef.current?.setNativeProps({
+                style: {
+                  borderColor: '#1e293b',
+                  borderWidth: 1.5
+                }
+              });
+            }}
           />
         </View>
 

@@ -371,7 +371,7 @@
         "curiosidade": "Fica nos livros de roteiro como a trama que melhor conseguiu fechar TODAS as pontas soltas de paradoxo na história do Sci-fi moderno."
     },
     "Black Mirror": {
-        "nome_pt": "Espelho Negro",
+        "nome_pt": "Black Mirror",
         "nome_en": "Black Mirror",
         "genero": "Antologia / Suspense de Tecnologia",
         "ano": "2011 ao Presente",
@@ -933,5 +933,21 @@
             "Harvey Kinkle (Ross Lynch)"
         ],
         "curiosidade": "A série foi desenvolvida por Roberto Aguirre-Sacasa, o mesmo criador de Riverdale, e originalmente seria um spin-off direto dessa série. Inclusive, existem várias referências e conexões sutis entre os universos, já que ambas vêm dos quadrinhos da Archie Comics — algo que fãs atentos adoram identificar. "
+    },
+    "Sítio do Picapau Amarelo": {
+        "nome_pt": "Sítio do Picapau Amarelo",
+        "nome_en": "Sítio do Picapau Amarelo",
+        "genero": "Infantil, Fantasia, Aventura",
+        "ano": "2001 a 2007",
+        "temporadas": "7",
+        "episodios": "220+",
+        "elenco": [
+            "Narizinho (Lara Rodrigues)",
+            "Pedrinho (César Cardadeiro)",
+            "Emília (Isabelle Drummond)",
+            "Dona Benta (Nicette Bruno)",
+            "Tia Nastácia (Dhu Moraes)"
+        ],
+        "curiosidade": "A série é baseada na obra clássica de Monteiro Lobato e marcou gerações com sua mistura de folclore brasileiro, literatura e fantasia. Um detalhe curioso é que personagens do folclore como o Saci e a Cuca conviviam com figuras da mitologia grega e personagens históricos, criando um universo único e educativo que ajudava a introduzir crianças à cultura brasileira de forma divertida."
     }
 }

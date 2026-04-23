@@ -850,5 +850,17 @@
             "Riverdale"
         ],
         "dificuldade": 3
+    },
+    {
+        "id": 72,
+        "serie_correta": "Sítio do Picapau Amarelo",
+        "audio_url": "/musicas/Sítio do Picapau Amarelo.mp3",
+        "opcoes": [
+            "Castelo Rá-Tim-Bum",
+            "Sítio do Picapau Amarelo",
+            "Cocoricó",
+            "Ilha Rá-Tim-Bum"
+        ],
+        "dificuldade": 3
     }
 ]
