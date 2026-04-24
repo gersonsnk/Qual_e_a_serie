@@ -7,7 +7,7 @@ import { router, useFocusEffect } from 'expo-router';
 import React from 'react';
 import Animated, {
   useSharedValue, useAnimatedStyle, withRepeat, withSequence,
-  withTiming, withSpring, interpolate, Easing, FadeIn,
+  withTiming, withSpring, interpolate, interpolateColor, Easing, FadeIn,
   FadeInDown, FadeInUp, ZoomIn,
 } from 'react-native-reanimated';
 import { LinearGradient } from 'expo-linear-gradient';
@@ -90,14 +90,31 @@ export default function HomeScreen() {
   const [ranking, setRanking] = useState<any[]>([]);
   const [loading, setLoading] = useState(true);
   const isNavigating = useRef(false);
-  const nomeWrapperRef = useRef<View>(null);
-  const sobrenomeWrapperRef = useRef<View>(null);
 
   // Animações do botão
   const btnScale = useSharedValue(1);
   const btnGlow = useSharedValue(0);
   const titleScale = useSharedValue(0.8);
   const titleOpacity = useSharedValue(0);
+
+  const nomeBorder = useSharedValue(0);
+  const sobrenomeBorder = useSharedValue(0);
+
+  const nomeInputStyle = useAnimatedStyle(() => ({
+    borderColor: interpolateColor(
+      nomeBorder.value,
+      [0, 1],
+      ['#1e293b', '#6366f1']
+    ),
+  }));
+
+  const sobrenomeInputStyle = useAnimatedStyle(() => ({
+    borderColor: interpolateColor(
+      sobrenomeBorder.value,
+      [0, 1],
+      ['#1e293b', '#6366f1']
+    ),
+  }));
 
   useEffect(() => {
     // Entrada do título
@@ -125,6 +142,7 @@ export default function HomeScreen() {
 
   const iniciarJogo = () => {
     if (isNavigating.current) return;
+
     if (!nome.trim() || !sobrenome.trim()) {
       Alert.alert('Atenção', 'Por favor, digite seu nome e sobrenome para o Placar!');
       // Shake do botão
@@ -159,6 +177,7 @@ export default function HomeScreen() {
     <View style={styles.container}>
       {/* Fundo com gradiente */}
       <LinearGradient
+        pointerEvents="none"
         colors={['#0a0a1a', '#0f172a', '#1a0533']}
         style={StyleSheet.absoluteFillObject}
       />
@@ -176,12 +195,13 @@ export default function HomeScreen() {
       {/* ── Card de entrada ── */}
       <Animated.View entering={FadeInUp.delay(300).springify()} style={styles.card}>
         <LinearGradient
+          pointerEvents="none"
           colors={['rgba(99,102,241,0.15)', 'rgba(139,92,246,0.05)']}
           style={StyleSheet.absoluteFillObject}
           start={{ x: 0, y: 0 }} end={{ x: 1, y: 1 }}
         />
 
-        <View ref={nomeWrapperRef} style={styles.inputWrapper}>
+        <Animated.View style={[styles.inputWrapper, nomeInputStyle]}>
           <Text style={styles.inputIcon}>👤</Text>
           <TextInput
             style={styles.input}
@@ -190,25 +210,15 @@ export default function HomeScreen() {
             value={nome}
             onChangeText={setNome}
             onFocus={() => {
-              nomeWrapperRef.current?.setNativeProps({
-                style: {
-                  borderColor: '#6366f1',
-                  borderWidth: 1.5
-                }
-              });
+              nomeBorder.value = withTiming(1, { duration: 180 });
             }}
             onBlur={() => {
-              nomeWrapperRef.current?.setNativeProps({
-                style: {
-                  borderColor: '#1e293b',
-                  borderWidth: 1.5
-                }
-              });
+              nomeBorder.value = withTiming(0, { duration: 180 });
             }}
           />
-        </View>
+        </Animated.View>
 
-        <View ref={sobrenomeWrapperRef} style={styles.inputWrapper}>
+        <Animated.View style={[styles.inputWrapper, sobrenomeInputStyle]}>
           <Text style={styles.inputIcon}>✍️</Text>
           <TextInput
             style={styles.input}
@@ -217,23 +227,13 @@ export default function HomeScreen() {
             value={sobrenome}
             onChangeText={setSobrenome}
             onFocus={() => {
-              sobrenomeWrapperRef.current?.setNativeProps({
-                style: {
-                  borderColor: '#6366f1',
-                  borderWidth: 1.5
-                }
-              });
+              sobrenomeBorder.value = withTiming(1, { duration: 180 });
             }}
             onBlur={() => {
-              sobrenomeWrapperRef.current?.setNativeProps({
-                style: {
-                  borderColor: '#1e293b',
-                  borderWidth: 1.5
-                }
-              });
+              sobrenomeBorder.value = withTiming(0, { duration: 180 });
             }}
           />
-        </View>
+        </Animated.View>
 
         <Animated.View style={btnAnimStyle}>
           <TouchableOpacity onPress={iniciarJogo} activeOpacity={0.85} style={styles.playButtonOuter}>
@@ -269,6 +269,7 @@ export default function HomeScreen() {
               keyExtractor={(_, i) => i.toString()}
               renderItem={({ item, index }) => <RankingRow item={item} index={index} />}
               showsVerticalScrollIndicator={false}
+              keyboardShouldPersistTaps="handled"
             />
           )}
         </View>
@@ -301,7 +302,6 @@ const styles = StyleSheet.create({
     backgroundColor: '#0f172a', borderRadius: 12, marginBottom: 12,
     borderWidth: 1.5, borderColor: '#1e293b', paddingHorizontal: 14,
   },
-  inputWrapperFocused: { borderColor: '#6366f1', shadowColor: '#6366f1', shadowOpacity: 0.3, shadowRadius: 8 },
   inputIcon: { fontSize: 18, marginRight: 10 },
   input: { flex: 1, color: '#f1f5f9', paddingVertical: 14, fontSize: 16 },
 
